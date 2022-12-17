@@ -1,0 +1,26 @@
+{
+  "name": "mock_project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurubhaskary/Mock_Project_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurubhaskary/Mock_Project_2/issues"
+  },
+  "homepage": "https://github.com/gurubhaskary/Mock_Project_2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "npm-install-all": "^1.1.21"
+  }
+}
